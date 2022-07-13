@@ -18,6 +18,6 @@
          </ExternalForce>
       </objects>
       <!--Storage file (.sto) containing (3) components of force and/or torque and point of application.Note: this file overrides the data source specified by the individual external forces if specified.--><datafile>C:\Users\s4430957_local\Documents\GitHub\OsimValidationDataset\Data\S01\Day 1\DynamicData\0.06m3min_grf.mot</datafile>
-      <external_loads_model_kinematics_file></external_loads_model_kinematics_file>
+      <external_loads_model_kinematics_file>Unassigned</external_loads_model_kinematics_file>
    </ExternalLoads>
 </OpenSimDocument>

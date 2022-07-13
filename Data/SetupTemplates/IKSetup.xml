@@ -218,11 +218,11 @@
 		<!--The name of the storage (.sto or .mot) file containing the time history of coordinate observations. Coordinate values from this file are included if there is a corresponding model coordinate and task. -->
 		<coordinate_file>Unassigned</coordinate_file>
 		<!--The time range for the study.-->
-		<time_range></time_range>
+		<time_range>Unassigned</time_range>
 		<!--Flag (true or false) indicating whether or not to report marker errors from the inverse kinematics solution.-->
 		<report_errors>true</report_errors>
 		<!--Name of the resulting inverse kinematics motion (.mot) file.-->
-		<output_motion_file></output_motion_file>
+		<output_motion_file>Unassigned</output_motion_file>
 		<!--Flag indicating whether or not to report model marker locations. Note, model marker locations are expressed in Ground.-->
 		<report_marker_locations>false</report_marker_locations>
 	</InverseKinematicsTool>
