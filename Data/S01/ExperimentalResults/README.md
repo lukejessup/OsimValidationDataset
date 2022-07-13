@@ -1,1 +1,1 @@
-The .mat file contains the experimental metabolic power, fascicle length and electromyography data for each trial that the participant performed.
+The .mat file contains the experimental metabolic power, fascicle length and electromyography data for each trial that the participant performed. View the trialorder cell to find the conditions that you are interested in.
