@@ -4,4 +4,4 @@ Contains:
 Marker (.trc) and force (.mot) data to run scaling, IK, ID etc.
 Experimental metabolic power data (.mat).
 Experimental fascicle length data from soleus, lateral gastrocnemius and vastus lateralis (.mat).
-Experimental EMG data from soleus, lateral gastrocnemius, medial gastrocnemius, tibialis anterior, vastus lateralis, rectus femoris and biceps femoris (.mat).
+Experimental electromyography data from soleus, lateral gastrocnemius, medial gastrocnemius, tibialis anterior, vastus lateralis, rectus femoris and biceps femoris (.mat).
