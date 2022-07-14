@@ -1,5 +1,5 @@
 # OsimValidationDataset
-Dataset for OpenSim model testing. Data from 8 participants who each performed 19 hopping trials to different frequency and height constraints.
+Dataset for OpenSim model and tool testing. Data from 8 participants who each performed 19 hopping trials to different frequency and height constraints.
 Contains:
 Marker (.trc) and force (.mot) data to run scaling, IK, ID etc.
 Experimental metabolic power data (.mat).
